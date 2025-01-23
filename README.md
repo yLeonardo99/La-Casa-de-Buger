@@ -13,11 +13,11 @@ Este repositório contém o código-fonte de um site desenvolvido para um negóc
 
 ## 📸 Imagens do Projeto  
 
-![Páginas1](La-Casa-de-Buger/blob/main/assets/CAPA1.png)  
+![Páginas1](https://raw.githubusercontent.com/yLeonardo99/La-Casa-de-Buger/refs/heads/main/assets/CAPA1.png)  
 
-![Páginas2](assets/images/CAPA2.png)  
+![Páginas2](https://raw.githubusercontent.com/yLeonardo99/La-Casa-de-Buger/refs/heads/main/assets/CAPA2.png)  
 
-![Páginas3](assets/images/CAPA3.png)  
+![Páginas3](https://raw.githubusercontent.com/yLeonardo99/La-Casa-de-Buger/refs/heads/main/assets/CAPA3.png)  
 
 
 
