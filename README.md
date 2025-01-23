@@ -1,6 +1,6 @@
 ## 🌐 La Casa de Buger - Website
 
-LINK PARA ACESSAR O SITE: https://yleonardo99.github.io/Agencia-Villa/
+LINK PARA ACESSAR O SITE: https://yleonardo99.github.io/La-Casa-de-Buger/
 
 Este repositório contém o código-fonte de um site desenvolvido para um negócio de venda de lanches, uma plataforma virtual projetada para oferecer uma experiência moderna e prática aos clientes. O site foi construído utilizando HTML, CSS e JavaScript
 
