@@ -13,7 +13,7 @@ Este repositório contém o código-fonte de um site desenvolvido para um negóc
 
 ## 📸 Imagens do Projeto  
 
-![Páginas1](assets/images/CAPA1.png)  
+![Páginas1](La-Casa-de-Buger/blob/main/assets/CAPA1.png)  
 
 ![Páginas2](assets/images/CAPA2.png)  
 
